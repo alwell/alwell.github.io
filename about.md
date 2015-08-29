@@ -3,7 +3,7 @@ layout: page
 title: About Me
 date: 2015-08-29
 ---
-# Alan Weller
+## Alan Weller
 
 I edit this blog and the zolag website as well as publishing several books on Buddhism.
 
