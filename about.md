@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About Me
-date: 2015-08-04
+date: 2015-08-29
 ---
 # Alan Weller
 
 I edit this blog and the zolag website as well as publishing several books on Buddhism.
 
-I have so many websites that I need a website to keep trach of the websites! Here vthey all are:
+I have so many websites that I need a website to keep trach of the websites! Here they all are:
 
 [http://alwell.github.io/Alan_Weller/](http://alwell.github.io/Alan_Weller/)
 
