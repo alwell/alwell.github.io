@@ -1,4 +1,4 @@
----
+https://github.com/alwell/alwell_github_io/settings---
 layout: page
 title: Contact Zolag
 date: 2018-07-15
@@ -6,7 +6,7 @@ date: 2018-07-15
 
 
 
-### Contact Zolag
+
 
 <form action="http://formspree.io/aweller32@gmail.com" method="POST">
     <label for="name">Name</label>    
