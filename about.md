@@ -1,17 +1,12 @@
 ---
 layout: page
-title: About Me
-date: 2015-08-29
+title: Contact Zolag
+date: 2018-07-15
 ---
 
-I edit this blog and the zolag website as well as publishing several books on Buddhism.
-
-I have so many websites that I need a website to keep track of the websites! Here they all are:
-
-[http://alwell.github.io/Alan_Weller/](http://alwell.github.io/Alan_Weller/)
 
 
-### Contact me
+### Contact Zolag
 
 <form action="http://formspree.io/aweller32@gmail.com" method="POST">
     <label for="name">Name</label>    
