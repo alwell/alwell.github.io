@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Contact Zolag
 date: 2018-07-15
 ---
