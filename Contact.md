@@ -7,13 +7,6 @@ date: 2018-07-15
 
 
 
+### CONTACT Zolag: 
 
-<form action="http://formspree.io/aweller32@gmail.com" method="POST">
-    <label for="name">Name</label>    
-    <input type="text" id="name" name="name" class="full-width"><br>
-    <label for="email">Email Address</label>
-    <input type="email" id="email" name="_replyto" class="full-width"><br>
-    <label for="message">Message</label>
-    <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea><br>
-    <input type="submit" value="Send" class="button">
-  </form>
+[Contact Zolag](https://docs.google.com/forms/d/e/1FAIpQLSf5lxYq2sVNpwgGuSzN51IMZVEdLB_KhzTKzqvW3hQo9CcZVg/viewform?usp=sf_link)
