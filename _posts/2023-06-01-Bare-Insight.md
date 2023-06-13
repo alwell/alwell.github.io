@@ -1,3 +1,8 @@
+---
+layout: post
+title: Buddha-Genius of the Ancient World
+---
+
 Hi Azita, All
  
 In this morning’s Zoom discussion you quoted the following passage from a footnote to para 14 of Ch XV of The Path of Purification (a translation of the Visuddhimagga):
