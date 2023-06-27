@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Buddha-Genius of the Ancient World
+title: Bare Insight
 ---
 
 Hi Azita, All
